@@ -1,0 +1,8 @@
+pageObjects\pageObjects\AccountRegistrationPage.class
+pageObjects\pageObjects\BasePage.class
+TestCases\TC_002_LoginTest.class
+pageObjects\pageObjects\HomePage.class
+TestBase\BaseClass.class
+pageObjects\pageObjects\MyAccountPage.class
+TestCases\TC_001_AccountRegistrationTest.class
+pageObjects\pageObjects\LoginPage.class

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite [
+  <!ELEMENT suite (test+)>
+  <!ATTLIST suite name CDATA #REQUIRED>
+  <!ATTLIST suite parallel (methods|tests|classes|instances|none) "none">
+  <!ATTLIST suite thread-count CDATA "5">
+  
+  <!ELEMENT test (parameter*, classes)>
+  <!ATTLIST test name CDATA #REQUIRED>
+  <!ATTLIST test parallel (methods|tests|classes|instances|none) "none">
+  <!ATTLIST test thread-count CDATA "5">
+  
+  <!ELEMENT parameter EMPTY>
+  <!ATTLIST parameter name CDATA #REQUIRED>
+  <!ATTLIST parameter value CDATA #REQUIRED>
+  
+  <!ELEMENT classes (class+)>
+  
+  <!ELEMENT class EMPTY>
+  <!ATTLIST class name CDATA #REQUIRED>
+]>
+<suite name="Suite">
+  
+  <test thread-count="5" name="Test">
+  
+  	<parameter name="os" value="Windows" />
+  	<parameter name="browser"  value="firefox"/>  
+    <classes>
+     <class name="TestCases.TC_001_AccountRegistrationTest"/>
+     <class name="TestCases.TC_002_LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,33 @@
+2024-07-11 21:34:38 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Ramya N\eclipse-workspace\Onecognizantv121\master.xml] otherwise TestNG may fail or not work as expected.
+2024-07-11 21:34:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Ramya N\eclipse-workspace\Onecognizantv121\master.xml
+
+2024-07-11 21:35:14 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-11 21:35:17 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message..
+2024-07-11 21:35:17 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-11 21:35:27 INFO  TC_002_LoginTest:20 - **************************** Starting TC002_LoginTest *********************************
+2024-07-11 21:35:29 INFO  TC_002_LoginTest:49 - ***************************** Ending TC002_Login Test *****************************
+2024-07-11 21:46:40 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Ramya N\eclipse-workspace\Onecognizantv121\master.xml] otherwise TestNG may fail or not work as expected.
+2024-07-11 21:46:51 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-11 21:46:54 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message..
+2024-07-11 21:46:54 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-11 21:47:09 INFO  TC_002_LoginTest:20 - **************************** Starting TC002_LoginTest *********************************
+2024-07-11 21:47:11 INFO  TC_002_LoginTest:49 - ***************************** Ending TC002_Login Test *****************************
+2024-07-11 22:57:17 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Ramya N\eclipse-workspace\Onecognizantv121\master.xml] otherwise TestNG may fail or not work as expected.
+2024-07-11 22:57:25 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-11 22:57:29 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message..
+2024-07-11 22:57:29 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-11 22:57:35 INFO  TC_002_LoginTest:20 - **************************** Starting TC002_LoginTest *********************************
+2024-07-11 22:57:37 INFO  TC_002_LoginTest:49 - ***************************** Ending TC002_Login Test *****************************
+2024-07-11 22:58:09 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Ramya N\eclipse-workspace\Onecognizantv121\master.xml] otherwise TestNG may fail or not work as expected.
+2024-07-11 22:58:15 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-11 22:58:20 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message..
+2024-07-11 22:58:20 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-11 22:58:26 INFO  TC_002_LoginTest:20 - **************************** Starting TC002_LoginTest *********************************
+2024-07-11 22:58:28 INFO  TC_002_LoginTest:49 - ***************************** Ending TC002_Login Test *****************************
+2024-07-11 23:14:47 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\Ramya N\eclipse-workspace\Onecognizantv121\master.xml] otherwise TestNG may fail or not work as expected.
+2024-07-11 23:14:54 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-07-11 23:14:58 INFO  TC_001_AccountRegistrationTest:35 - Validating expected message..
+2024-07-11 23:14:58 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2024-07-11 23:15:05 INFO  TC_002_LoginTest:20 - **************************** Starting TC002_LoginTest *********************************
+2024-07-11 23:15:07 INFO  TC_002_LoginTest:49 - ***************************** Ending TC002_Login Test *****************************
